@@ -1,6 +1,9 @@
 /advexamples
 __pycache__
 .ipynb_checkpoints
+cifar1*.h5
+cifar2*.h5
 cifar*.h5
 adversarial_x_train.npy
 adversarial_y_train.npy
+image*.png
