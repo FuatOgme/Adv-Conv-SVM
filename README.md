@@ -1,5 +1,5 @@
 # Convolutional SVM vs CNN on adversarial examples
-This is a test application to see if Linear SVM on the top of convolutional layers are more robust agaisnt adversarial examples rather than fully connected layer.
+This is a test application to see if Linear SVM on the top of convolutional layers are more robust agaisnt adversarial examples instead of fully connected layer.
 Dataset is cifar10 with 50k train, 10k test images and 9933 adversarial images
 
 ## Installing
