@@ -20,7 +20,7 @@ pip install foolbox
 
 * [CNN.ipynb] -  Contains CNN model that is used on creating base model for SVM as well as being substitute model for adversarial attacks. 
 * [Adversarial.ipynb] - Creates adversarial examples on test set, the save them as numpy arrays to use in tests.
-* [CNN_SVC.ipynb] - Contains Convolution + Linear SVC model training and then evaluatate models and show results. 
+* [CNN_SVC.ipynb] - Contains Convolution + Linear SVC model training and then evaluate models and show results. 
 * [Main.ipynb] - To debug, show and dig into adversarials.
 
 ## Results
